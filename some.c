@@ -5,6 +5,6 @@ int main()
     int b=5;
     int c = a+b;
     
-    printf("%d\n",c);
+    printf("Assalamvalaikum %d\n",c);
     return 0;
 }
